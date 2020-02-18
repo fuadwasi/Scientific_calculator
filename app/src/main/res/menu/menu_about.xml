@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="Home"
+        android:id="@+id/home_back"
+        />
+
+    <item
+        android:id="@+id/sp_test"
+        android:title="Speed Test"
+        />
+
+    <item
+        android:id="@+id/abt_but"
+        android:title="About"
+        />
+</menu>
